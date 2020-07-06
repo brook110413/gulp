@@ -1,0 +1,1 @@
+{"version":3,"file":"all.css","sources":["all.scss"],"sourcesContent":["$color: black;\r\n\r\nbody {\r\n  background: $color;\r\n}\r\n"],"names":[],"mappings":"AAEA,AAAA,IAAI,CAAC;EACH,UAAU,EAHJ,KAAK,GAIZ"}
